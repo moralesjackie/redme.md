@@ -1,9 +1,7 @@
-# redme.md
+
 
 # Geometría 
-  
- ## Solución 😎 
-  
+ 
  1. Preguntar qué volumen se necesita (cubo, pirámide o esfera) 
  2. Si necesitamos un cubo, entonces: <br> 
     2.1 Preguntar la longitud de un lado <br> 
